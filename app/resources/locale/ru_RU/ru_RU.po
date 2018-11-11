@@ -198,7 +198,7 @@ msgstr "Нажмите для просмотра"
 
 #: app/scripts/services/blocks.js:871 app/scripts/services/blocks.js:99
 msgid "Clock not allowed for data buses"
-msgstr "Сишгнал тактирования не разрешен для шин данных"
+msgstr "Сигнал тактирования не разрешен для шин данных"
 
 #: app/scripts/controllers/menu.js:277
 msgid "Close"
